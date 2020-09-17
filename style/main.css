@@ -9,17 +9,47 @@
 }
 .page2 h1{
     text-align: center;
-    padding-top: 150px;
-
-
+    padding:150px 0 0 0;
+    margin: 0;
 
 }
 .page3{
+    width: 100vw;
+    height: 100vh;
+    background: url("/images/background3.jpg");
+    background-size: cover;
+    text-align: center;
 
+}
+.page3 h1{
+    text-align: center;
+    padding: 150px 0 0 0;
+    color: white;
+    margin: 0 0 50px 0;
+
+}
+.column{
+    column-width: 30px;
+    column-count: 3;
+    column-gap: 100px;
+    column-rule: 1px solid #ccc;
+    color: white;
 }
 .page4{
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+.page4 h1{
+    text-align: center;
+    padding: 150px 0 0 0;
+    margin: 0 0 50px 0;
+}
+table{
+    text-align: center;
 
 }
+
 .page5{
 
 }

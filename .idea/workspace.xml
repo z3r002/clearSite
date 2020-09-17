@@ -20,10 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a47b86be-6bb0-4707-8b43-2530ab6f6ea7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/style/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +64,9 @@
       <workItem from="1599798466666" duration="694000" />
       <workItem from="1599799258896" duration="6877000" />
       <workItem from="1600230135963" duration="337000" />
-      <workItem from="1600265730749" duration="5012000" />
+      <workItem from="1600265730749" duration="5415000" />
+      <workItem from="1600306580852" duration="3367000" />
+      <workItem from="1600312603121" duration="696000" />
     </task>
     <servers />
   </component>
@@ -81,6 +83,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="809" y="190" key="run.anything.popup" timestamp="1599801810414">
